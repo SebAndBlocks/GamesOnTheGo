@@ -1,5 +1,3 @@
-#### by [@SebTNT](https://github.com/sebtnt/)
-
 ## Games
 #### 3D Cube Adventure 2 by rens2 - [SCRATCH:388570301](https://scratch.mit.edu/projects/388570301) - [PLAY IN TURBOWARP](https://turbowarp.org/388570301)
 #### N Braid by lolucky - [SCRATCH:807636464](https://scratch.mit.edu/projects/807636464) - [PLAY IN TURBOWARP](https://turbowarp.org/807636464)
