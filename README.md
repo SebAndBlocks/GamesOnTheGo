@@ -1,4 +1,3 @@
-# Games on the Go
 #### by [@SebTNT](https://github.com/sebtnt/)
 
 ## Games
