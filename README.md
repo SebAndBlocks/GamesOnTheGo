@@ -7,6 +7,6 @@
 ## How To Install on iOS
 #### Open up each game link and use the 'add to home screen' button in the sharesheet
 #### OR
-#### Use our [iOS Profiles](https://sebtnt.github.io/GamesOnTheGo/ios-profiles.index)
+#### Use our [iOS Profiles](https://sebtnt.github.io/GamesOnTheGo/ios-profiles.html)
 ## How to Install on Android
 #### Android installation is Untested. The games may not save to your device for offline play.
